@@ -1,18 +1,24 @@
-### Hi there 👋
+# Hi, ich bin Jens 👋
 
-…
+Ich bin Softwareentwickler mit Fokus auf saubere Architektur, wartbare Systeme und pragmatische Lösungen.
 
-<!--
-**hjenneberg/hjenneberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aktuell
+- Entwicklung modularer Anwendungen mit **Symfony**
+- Aufbau mandantenfähiger Systeme
+- Integration von Authentifizierung (Keycloak, OAuth2)
+- Fullstack-Entwicklung von Multipage-Apps mit **Remix**
 
-Here are some ideas to get you started:
+## Tech-Stack
+- **Backend:** PHP (Symfony), Node.js (Remix/React Router)
+- **Frontend:** TypeScript, React
+- **Auth & Security:** Keycloak, OAuth2 / OpenID Connect
+- **DevOps:** Docker, DDEV, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interessen
+- Softwarearchitektur & Modularisierung
+- Authentifizierungs- und Autorisierungskonzepte
+- Developer Experience & saubere Entwicklungsprozesse
+
+---
+
+> „Was sich überhaupt sagen lässt, lässt sich klar sagen; und wovon man nicht reden kann, darüber muss man schweigen.“
